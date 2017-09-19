@@ -3,3 +3,7 @@ git add <file>，注意，可反复多次使用，添加多个文件；
 git commit -m"string"，添加注释
 git status命令查看是否修改过。
 git diff可以查看修改内容。
+git log 命令显示从最近到最远的提交日志
+git reset --hard commit_id。
+git log可以查看提交历史，以便确定要回退到哪个版本。
+git reflog查看命令历史，以便确定要回到未来的哪个版本。
