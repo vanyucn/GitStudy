@@ -1,0 +1,5 @@
+git into 初始化Git仓库
+git add <file>，注意，可反复多次使用，添加多个文件；
+git commit -m"string"，添加注释
+git status命令查看是否修改过。
+git diff可以查看修改内容。
